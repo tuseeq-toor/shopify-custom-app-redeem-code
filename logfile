@@ -1,0 +1,18 @@
+2023-09-29 01:28:26.000 PKT [8144] LOG:  starting PostgreSQL 16.0, compiled by Visual C++ build 1935, 64-bit
+2023-09-29 01:28:26.005 PKT [8144] LOG:  could not bind IPv6 address "::1": Permission denied
+2023-09-29 01:28:26.005 PKT [8144] LOG:  could not bind IPv4 address "127.0.0.1": Permission denied
+2023-09-29 01:28:26.005 PKT [8144] WARNING:  could not create listen socket for "localhost"
+2023-09-29 01:28:26.005 PKT [8144] FATAL:  could not create any TCP/IP sockets
+2023-09-29 01:28:26.007 PKT [8144] LOG:  database system is shut down
+2023-09-29 01:33:45.866 PKT [13396] LOG:  starting PostgreSQL 16.0, compiled by Visual C++ build 1935, 64-bit
+2023-09-29 01:33:45.869 PKT [13396] LOG:  could not bind IPv6 address "::1": Permission denied
+2023-09-29 01:33:45.869 PKT [13396] LOG:  could not bind IPv4 address "127.0.0.1": Permission denied
+2023-09-29 01:33:45.869 PKT [13396] WARNING:  could not create listen socket for "localhost"
+2023-09-29 01:33:45.869 PKT [13396] FATAL:  could not create any TCP/IP sockets
+2023-09-29 01:33:45.871 PKT [13396] LOG:  database system is shut down
+2023-09-29 01:47:40.605 PKT [6620] LOG:  starting PostgreSQL 16.0, compiled by Visual C++ build 1935, 64-bit
+2023-09-29 01:47:40.608 PKT [6620] LOG:  could not bind IPv6 address "::1": Permission denied
+2023-09-29 01:47:40.608 PKT [6620] LOG:  could not bind IPv4 address "127.0.0.1": Permission denied
+2023-09-29 01:47:40.608 PKT [6620] WARNING:  could not create listen socket for "localhost"
+2023-09-29 01:47:40.608 PKT [6620] FATAL:  could not create any TCP/IP sockets
+2023-09-29 01:47:40.610 PKT [6620] LOG:  database system is shut down

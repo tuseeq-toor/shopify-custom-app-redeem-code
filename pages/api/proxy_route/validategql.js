@@ -55,11 +55,7 @@ const handler = async (req, res) => {
     },
   });
   const codeStatus =
-    response.body.data.codeDiscountNodeByCode.codeDiscount.status;
-  console.log(
-    response.body.data.codeDiscountNodeByCode.codeDiscount,
-    "====================="
-  );
+    response.body.data?.codeDiscountNodeByCode?.codeDiscount?.status;
 
   let exists = codeStatus === "ACTIVE" ? true : false;
 
